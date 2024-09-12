@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe- Simple but fun
 This is a simple Tic-Tac-Toe game coded in C++ using the Windows generic app and Windows API.
 This was made a practice project to improve my understaning of UI, game making, and APIs.
 Some features of  the project:
