@@ -1,8 +1,15 @@
-# Tic-Tac-Toe
-This is a simple Tic-Tac-Toe game coded in C++ using the Windows generic app and Windows API.
-This was made a practice project to improve my understaning of UI, game making, and APIs.
-Some features of  the project:
-  1] Has a new game feature so that players can start a new game.
-  2] Has a welcoming, minimalistic design with attractive icons.
-  3] Uses a point and click system for ease of use and player convenience.
-To play the game visit Tic-Tac_Toe/Debug/Project1.exe
+# Tic-Tac-Toe (C++ / WinAPI)
+
+A simple, lightweight Tic-Tac-Toe game built from scratch using C++ and the Windows API to explore native Windows programming.
+
+### Features
+
+1. New Game: Instantly reset the board to play again.
+2. Clean Design: Minimalist UI with clear X/O graphics.
+3. Native Performance: Runs directly on Windows with no dependencies.
+
+### How to Play
+
+- Open the solution file (.sln) in Visual Studio.
+- Press F5 to Build & Run.
+- Alternatively, run the pre-compiled executable: Tic-Tac_Toe/Debug/Project1.exe
